@@ -3,7 +3,8 @@ This is the Final Project Of Amjad Ahmed for EcE-3641(Robotics I) , The project 
 
 
 # REPORT
-[EcE_3641_project_2024_.pdf](https://github.com/user-attachments/files/18210441/EcE_3641_project_2024_.pdf)
+[EcE_3641_project_2024_ (1).pdf](https://github.com/user-attachments/files/18210608/EcE_3641_project_2024_.1.pdf)
+
 
 # Slides
 [RoboticsFinal.pdf](https://github.com/user-attachments/files/18210110/RoboticsFinal.pdf)
